@@ -1,0 +1,2 @@
+Conta Corrente,12345,123,arthur,89999.9
+Conta Poupança,123456,123,mayara,10000.0
